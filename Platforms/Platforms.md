@@ -1,20 +1,7 @@
 # Platforms
 Create an app or game that feels at home on every platform you support.
 
-<style>
-
-	.platform_table {
-		border: hidden;
-	}
-	
-  .platform_image_small {
-  			position: sticky;
-  			max-width: 25vw;
-    }
-    
-</style>
-
-<table class="platform_table" >
+<table class="platform_table">
 <tr class="platform_table"> 
 <td class="platform_table"><img class="platform_image_small" src="Photos/designing-for-ios-thumbnail_2x.png"><p align="center"><b> iOS </b></td>
 <td class="platform_table"><img class="platform_image_small" src="Photos/designing-for-ipados-thumbnail_2x.png"><p align="center"><b>iPadOS</b></td>
