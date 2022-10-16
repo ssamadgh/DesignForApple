@@ -2,16 +2,18 @@
 Create an app or game that feels at home on every platform you support.
 
 <style>
+
 	.platform_table {
 		border: hidden;
-		
 	}
+	
   .platform_image_small {
-  	position: sticky;
+  			position: sticky;
   			max-width: 25vw;
-
     }
+    
 </style>
+
 <table class="platform_table" >
 <tr class="platform_table"> 
 <td class="platform_table"><img class="platform_image_small" src="Photos/designing-for-ios-thumbnail_2x.png"><p align="center"><b> iOS </b></td>
@@ -73,11 +75,11 @@ Ergonomics is about how people use their devices.
 
 | Platform	|    Inputs 		|
 |------------	|------------|
-| iOS|	|
-| iPadOS |		|
-| macOS	|		|
-| tvOS	|		|
-| watchOS|		|	
+| iOS|[Multi-Touch gestures](), [onscreen keyboards](), and [voice]() control let people perform actions and accomplish meaningful tasks while they’re on the go. In addition, people often want apps to use their [location]() and input from the device’s [accelerometer and gyroscope](), and they may also want to participate in [spatial interactions]().	|
+| iPadOS |	People can interact with iPad using [Multi-Touch gestures]() and [onscreen keyboards](), an attached [keyboard]() or [pointing device](), [Apple Pencil](), or [voice](), and they often combine multiple input modes.|
+| macOS	|	 People expect to enter data and control the interface using any combination of input modes, such as physical [keyboards](), [pointing devices](), [game controllers](), and [voice]().	|
+| tvOS	|	People can use a [remote](), a [game controller](), their [voice](), and apps running on their other devices to interact with Apple TV.|
+| watchOS|	Using standard [Multi-Touch gestures]() like tap, swipe, and drag lets people control their experience even while they’re in motion. Turning the [Digital Crown]() imparts additional precision and feedback to scrolling interfaces, pressing the [Action button]() initiates an essential action without looking at the screen, and using [Siri Shortcuts]() can help people perform their routine tasks quickly and easily. People also appreciate taking advantage of data that device features — like GPS, sensors for blood oxygen and heart function, altimeter, accelerometer, and gyroscope — can provide.	|	
 
 
 
