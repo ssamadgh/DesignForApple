@@ -56,22 +56,82 @@ Ergonomics is about how people use their devices.
 
 ## Inputs
 
-
+Input is about how a platform receives user info to make better experience of using device.
 
 
 
 | Platform	|    Inputs 		|
 |------------	|------------|
-| iOS|[Multi-Touch gestures](), [onscreen keyboards](), and [voice]() control let people perform actions and accomplish meaningful tasks while they’re on the go. In addition, people often want apps to use their [location]() and input from the device’s [accelerometer and gyroscope](), and they may also want to participate in [spatial interactions]().	|
-| iPadOS |	People can interact with iPad using [Multi-Touch gestures]() and [onscreen keyboards](), an attached [keyboard]() or [pointing device](), [Apple Pencil](), or [voice](), and they often combine multiple input modes.|
+| iOS|**[Multi-Touch gestures](), [onscreen keyboards](), and [voice]() control** let people perform actions and **accomplish meaningful tasks while they’re on the go**. In addition, people **often want apps to use their [location]() and input from the device’s [accelerometer and gyroscope]()**, and they may also want to **participate in [spatial interactions]()**.	|
+| iPadOS |	People can interact with iPad using [Multi-Touch gestures]() and [onscreen keyboards](), an attached [keyboard]() or [pointing device](), [Apple Pencil](), or [voice](), and **they often combine multiple input modes**.|
 | macOS	|	 People expect to enter data and control the interface using any combination of input modes, such as physical [keyboards](), [pointing devices](), [game controllers](), and [voice]().	|
 | tvOS	|	People can use a [remote](), a [game controller](), their [voice](), and apps running on their other devices to interact with Apple TV.|
 | watchOS|	Using standard [Multi-Touch gestures]() like tap, swipe, and drag lets people control their experience even while they’re in motion. Turning the [Digital Crown]() imparts additional precision and feedback to scrolling interfaces, pressing the [Action button]() initiates an essential action without looking at the screen, and using [Siri Shortcuts]() can help people perform their routine tasks quickly and easily. People also appreciate taking advantage of data that device features — like GPS, sensors for blood oxygen and heart function, altimeter, accelerometer, and gyroscope — can provide.	|	
 
+## App interactions
+
+It matters how people interact with a platform, how many time they spend on and how they use it.
+
+| Platform	|  App interactions   		|
+|------------	|------------|
+| iOS|Sometimes, people spend just **a minute or two checking on event or social media updates, tracking data, or sending messages.** At other times, people can spend **an hour or more browsing the web, playing games, or enjoying media.** People **typically have multiple apps open at the same time**, and they **appreciate switching frequently among them**.	|
+| iPadOS |	Sometimes, people **perform a few quick actions on their iPad**. At other times, they spend hours **immersed in games, media, content creation, or productivity** tasks. People **frequently have multiple apps open** at the same time, and they a**ppreciate viewing more than one app onscreen** at once and **taking advantage of inter-app capabilities like drag and drop**.|
+| macOS	|	 Interactions can last anywhere **from a few minutes** of performing some quick tasks **to several hours** of deep concentration. People **frequently have multiple apps open** at the same time, and they **expect smooth transitions between active and inactive states as they switch from one app to another**.	|
+| tvOS	|	People can get **deeply immersed in a single experience** — often **lasting hours** — but they also appreciate using a picture-in-picture view to simultaneously follow an alternative app or video.	|
+| watchOS|	People often **glance at the Always On display many times** throughout the day, performing **focused app interactions** that can **last for less than a minute** each. People **frequently use a watchOS app’s related experiences** — like complications, notifications, and Siri interactions — **more than they use the app itself**.	|	
+
+
+## System features
+There are some system features that help people interact with the system and their apps in familiar, consistent ways.
+Poeple expect their apps and games to integrate well with the following system experiences.
+
+
+- iOS
+	- [Widgets]()
+	- [Home Screen quick actions]()
+	- [Spotlight]()
+	- [Shortcuts]()
+	- [Activity views]()
+- iPadOS
+	- [Multitasking]()
+	- [Widgets]()
+	- [Drag and drop]()
+- macOS
+	- [The menu bar]()
+	- [Finder]()
+	- [Mission Control]()
+	- [Dock]()
+- tvOS
+	- [TV app]()
+	- [SharePlay]()
+	- [Top Shelf]()
+	- [TV Provider Authentication]()
+- watchOS
+	-	[Complications]()
+	-	[Notifications]()
+	-	[Always On]()
+	-	[Faces]()
+	
 
 
 
+| Platform	|     		|
+|------------	|------------|
+| iOS| |
+| iPadOS |		|
+| macOS	|		|
+| tvOS	|		|
+| watchOS|		|	
 
+
+
+| Platform	|     		|
+|------------	|------------|
+| iOS|	|
+| iPadOS |		|
+| macOS	|		|
+| tvOS	|		|
+| watchOS|		|	
 
 
 | Platform	|     		|
